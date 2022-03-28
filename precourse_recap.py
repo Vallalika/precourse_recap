@@ -18,3 +18,5 @@ number_1 = 10
 number_2 = 118
 calculation = (number_1 + number_2) / 2
 print(calculation)
+
+print("Second Commit test")
